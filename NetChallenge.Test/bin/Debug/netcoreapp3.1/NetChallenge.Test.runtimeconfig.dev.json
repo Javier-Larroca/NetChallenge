@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Recursiva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Recursiva\\.nuget\\packages"
+    ]
+  }
+}
